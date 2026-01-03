@@ -1,0 +1,2 @@
+Attendance Rate= DIVIDE(COUNTROWS(FILTER(attendance,attendance[Attendance Status]="attended")),COUNTROWS(attendance),0)*100
+Profit Margin = DIVIDE(SUM(events[Revenue])-SUM(expenses[Amount]),SUM(events[Revenue]),0)*100
