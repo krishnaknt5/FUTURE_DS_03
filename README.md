@@ -1,4 +1,6 @@
 COLLEGE EVENT FEEDBACK ANALYSIS
+
+
 This Event Feedback Analysis Power BI Project walks you through building a professional-grade dashboard that helps event organizers, marketing teams, and data analysts make data-driven decisions for future events.
 
 📈 From attendee trends and feedback scores to event ROI, we cover it all in this end-to-end Power BI case study—perfect for your portfolio or real-world deployment.
